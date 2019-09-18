@@ -1,0 +1,5 @@
+@import './vendor/reset.css';
+
+body {
+  background: rgb(135, 74, 204);
+}
